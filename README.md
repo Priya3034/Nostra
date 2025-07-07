@@ -3,9 +3,8 @@
 
 Welcome to Nostra, a sleek and stylish shopping website built with the magic of HTML, CSS, and JavaScript. Whether you're a fashion lover or just browsing, Nostra offers a modern and responsive design that feels just like a real e-commerce site. 🛍️
 
-🌐 Live Preview
-
-👉 Click here to visit Nostra 
+🌐 Live Preview 
+👉 Click here to visit Nostra https://priya3034.github.io/Nostra/
 
 💡 What is Nostra?
 
@@ -34,16 +33,6 @@ HTML	Page structure & content
 CSS	Styling and responsiveness
 
 JavaScript	Dynamic features & interactivity
-
-Clone the repository
-
-bash
-
-Copy
-
-Edit
-
-git clone https://github.com/yourusername/nostra.git
 
 Open the project
 
